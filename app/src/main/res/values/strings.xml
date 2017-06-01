@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hacker News</string>
+
+
+    <string name="text_story_points">%1$d points</string>
+    <string name="text_story_point">%1$d point</string>
+    <string name="text_story_author">by %1$s</string>
+    <string name="text_news_detail">News Detail</string>
+    <string name="alert_cant_get_data">Can\'t get data from server! Please check your Internet connection!</string>
+    <string name="text_try_again">Try again</string>
+</resources>
